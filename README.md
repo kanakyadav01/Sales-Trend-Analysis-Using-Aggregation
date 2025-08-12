@@ -19,7 +19,7 @@ The dataset contains **100+ sales transactions for the year 2023**, covering all
 - **Environment:** MySQL Workbench  
 
 ## 📜 Deliverables  
-- **SQL Script** – Contains all queries used for sales trend analysis.  
+- **SQL Script** (online_sales_agg)– Contains all queries used for sales trend analysis.  
 - **PDF Report** – Includes executed queries and screenshots of result tables.  
 
 ## 📄 Queries Included  
